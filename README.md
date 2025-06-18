@@ -54,3 +54,8 @@ int main() {
     vector_free(&vec);
     return 0;
 }
+```
+- Expected output:
+```c
+0 10 20 30 40 50 60 70 80 90
+```
